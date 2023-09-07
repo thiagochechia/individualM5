@@ -6,13 +6,19 @@ Eu criei dashboards, com o Tableau, identificando as razões de saída dos funci
 
 
 Estes sao os Links das Dashboards (Painel):
-Dashboard com Graficos
+
+- Dashboard com Graficos
+- 
 https://public.tableau.com/app/profile/thiago.chechia/viz/DashboardM5_16940756057540/Painel2?publish=yes
-Dashboard Conclusao
+
+
+- Dashboard Conclusao
+- 
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Painel5?publish=yes
 
 Este e o Link do Livro:
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Histria1?publish=yes
 
+No colab disponibilizado neste repositorio estao descritos todas as analises realizadas neste projeto .
 
 Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
