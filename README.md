@@ -7,7 +7,7 @@ Eu criei dashboards, com o Tableau, identificando as razões de saída dos funci
 
 Este e o Link da Dashboard
 
-- https://public.tableau.com/app/profile/thiago.chechia/viz/INDIVIDUALM5/Painel2?publish=yes
+https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Histria1?publish=yes
 
 
 Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
