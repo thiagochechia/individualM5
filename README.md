@@ -5,8 +5,11 @@ Fui contratado como analista de dados e meu chefe, o Chief Marketing Officer (CM
 Eu criei dashboards, com o Tableau, identificando as razões de saída dos funcionários da empresa e seus impactos, e indicando possíveis soluções para esses problemas.
 
 
-Este e o Link da Dashboard
+Este e o Link da Dashboard (Painel):
 
+https://public.tableau.com/app/profile/thiago.chechia/viz/DashboardM5_16940756057540/Painel2?publish=yes
+
+Este e o Link do Livro:
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Histria1?publish=yes
 
 
