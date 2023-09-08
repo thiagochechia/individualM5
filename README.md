@@ -26,6 +26,8 @@ Livro Historia Final
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5x/Histria2?publish=yes
 
 
-No colab disponibilizado neste repositorio estao descritos todas as analises realizadas neste projeto .
+No colab disponibilizado neste repositorio estao descritos as analises realizadas neste projeto .
+
+No colab disponibilizado neste repositorio estao as respostas das perguntas solicitadas neste projeto .
 
 Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
