@@ -28,6 +28,6 @@ https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpres
 
 No colab disponibilizado neste repositorio estao descritos as analises realizadas neste projeto .
 
-No colab disponibilizado neste repositorio estao as respostas das perguntas solicitadas neste projeto .
+No colab (individualM5Conclusao ) disponibilizado neste repositorio estao as respostas das perguntas solicitadas neste projeto .
 
 Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
