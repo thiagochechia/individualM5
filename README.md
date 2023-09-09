@@ -3,11 +3,12 @@
 Evidencia de Entrega:
 
 Fui contratado como analista de dados e meu chefe, o Chief Marketing Officer (CMO), pediu que eu trabalhasse com seu Parceiro de Negócios de Recursos Humanos (HRBP) para entender o que está causando o atrito pessoas deixando a empresa em toda a organização de marketing e apresentar suas descobertas.
-
+-------------------------------------------------------------------------------------------------------------------------------------------
+Para apresentar os resultados
 Eu criei dashboards, com o Tableau, identificando as razões de saída dos funcionários da empresa e seus impactos, e indicando possíveis soluções para esses problemas.
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-Estes sao os Links das Dashboards (Painel):
+Abaixo seguem os Links das Dashboards (Painel): em TABLEAU
 
 - Dashboard com Graficos
 
@@ -29,6 +30,7 @@ https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpres
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 No colab (projetoIndividualM5) disponibilizado neste repositorio estao descritos as analises realizadas neste projeto .
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 No colab (individualM5Conclusao ) disponibilizado neste repositorio estao as respostas das perguntas solicitadas neste projeto .
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,3 +51,9 @@ Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
         
+-------------------------------------------------------------------------------------------------------------------------------------------
+Como utilizar :
+As respostas para as perguntas solicitadas no projeto estao no Arquivo de Conclusao do COLAB em Python 
+As Dashboards Solicitadas estao no Arquivo Read.me
+Os Livros com as Historias tambem estao no Read.me
+-------------------------------------------------------------------------------------------------------------------------------------------
