@@ -25,7 +25,7 @@ https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpres
 Este e o Link do Livro:
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Histria1?publish=yes
 -------------------------------------------------------------------------------------------------------------------------------------------
-Livro Historia Final
+Livro Historia Final (deve  ser Lido com seu Roteiro que esta no arquivo Roteiro neste repositorio
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5x/Histria2?publish=yes
 -------------------------------------------------------------------------------------------------------------------------------------------
 
