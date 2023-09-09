@@ -21,11 +21,11 @@ https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpres
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5x/Painel7?publish=yes
 -------------------------------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------------------------------------------------
 Este e o Link do Livro:
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5/Histria1?publish=yes
 -------------------------------------------------------------------------------------------------------------------------------------------
-Livro Historia Final (deve  ser Lido com seu Roteiro que esta no arquivo Roteiro neste repositorio
+
+Livro Historia Final (deve  ser Lido com seu Roteiro que esta no arquivo Roteiro neste repositorio)
 https://public.tableau.com/app/profile/thiago.chechia/viz/PessoasdeixandoaEmpresaM5x/Histria2?publish=yes
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,9 +37,6 @@ No colab (individualM5Conclusao ) disponibilizado neste repositorio estao as res
 
 ##### TECNOLOGIAS E BIBLIOTECAS
 
-
-
-
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/> 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
@@ -47,13 +44,13 @@ No colab (individualM5Conclusao ) disponibilizado neste repositorio estao as res
 
 Para este projeto utilizei TABLEAU , COLAB para realizar as analises em Python
 -------------------------------------------------------------------------------------------------------------------------------------------
-- Thiago Bernardes Chechia (System Developer) <a href="https://www.linkedin.com/in/thiagochechia/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-        
--------------------------------------------------------------------------------------------------------------------------------------------
 Como utilizar :
 As respostas para as perguntas solicitadas no projeto estao no Arquivo de Conclusao do COLAB em Python 
 As Dashboards Solicitadas estao no Arquivo Read.me
 Os Livros com as Historias tambem estao no Read.me
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+
+- Thiago Bernardes Chechia (System Developer) <a href="https://www.linkedin.com/in/thiagochechia/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
